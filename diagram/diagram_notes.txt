@@ -1,1 +1,0 @@
-Add PNG/Draw.io diagram showing VNET 10.0.0.0/16 with web/app/backend/management subnets, LB -> Web AS, Storage restricted to mgmt subnet.
