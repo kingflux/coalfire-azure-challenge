@@ -1,0 +1,8 @@
+Azure Architecture Diagram Legend
+---------------------------------
+🔵 Virtual Network (10.0.0.0/16)
+🟢 Subnets (Web, App, Backend, Mgmt)
+🟣 Network Security Groups
+🟡 Load Balancer (Public)
+🔴 Virtual Machines
+🟤 Storage Account (GRS, restricted)
